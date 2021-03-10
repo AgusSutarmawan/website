@@ -1,0 +1,123 @@
+    @font-face {
+        font-family: 'Rajdhani';
+        font-style: normal;
+        font-weight: 400;
+        src: url('font.woff2') format('woff2');
+    }
+    
+    .container {
+        width: 100%;
+        text-align: center;
+        align-items: center;
+        font-family: 'Rajdhani';
+        background-color: #fffbe7;
+    }
+    
+    .jaminan {
+        text-align: center;
+        align-items: center;
+    }
+    
+    .kepuasan {
+        text-align: center;
+    }
+    
+    .navbar {
+        background-color: #caa756;
+    }
+    
+    .gmail {
+        background-color: #caa756;
+        height: 80px;
+        margin-top: 50px;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    }
+    
+    .logoimel {
+        margin-top: 20px;
+        float: right;
+    }
+    
+    .imel {
+        float: left;
+        color: white;
+        margin-top: 8px;
+    }
+    
+    .go {
+        width: 50%;
+        color: black;
+    }
+    
+    .slide {
+        width: 100%;
+    }
+    
+    .text-jaminan {
+        margin-top: 100px;
+    }
+    
+    .kontak {
+        margin-top: 100px;
+    }
+    
+    .menubot {
+        text-align: center;
+    }
+    
+    .regist {
+        margin-top: 80px;
+    }
+    
+    .author {
+        margin-top: 60px;
+    }
+    
+    .content {
+        width: 450px;
+        margin: 0 auto;
+        padding: 30px 0;
+        font-size: 15px;
+        text-align: center;
+        background-color: white;
+        height: 600px;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    }
+    
+    .checkbox {
+        text-align: left;
+    }
+    
+    .form {
+        text-align: center;
+    }
+    
+    .form-group {
+        text-align: center;
+    }
+    
+    .form-group2 {
+        text-align: center;
+    }
+    
+    .content1 {
+        width: 230px;
+        margin: 0 auto;
+        padding: 30px 0;
+        font-size: 15px;
+        text-align: center;
+        background-color: white;
+        height: 250px;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    }
+    
+    .aritmatika {
+        width: 300px;
+        margin: 0 auto;
+        padding: 30px 0;
+        font-size: 15px;
+        text-align: center;
+        background-color: white;
+        height: 600px;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    }
